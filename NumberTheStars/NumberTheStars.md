@@ -9,7 +9,7 @@ Number the Stars is a casual yet immersive 3D rails game that you “create to a
 >Innovation - what did you try that is new or unique in VR? For example, UI / user cues, multi-user interactions, visual/audio interactions, comfortable locomotion techniques, immersive control methods, or even extending the technology in some way.
 
 ## Controls: 
-Gaze cursor via overlay with "tooltip" or helper text hovering about cursor. Tap to action .  
+Gaze cursor via overlay with "tooltip" or helper text hovering about cursor. Tap to action.  
 
 ## Mechanics:
 The user rotates their head, then aims (with a gaze cursor that may show a helper-tooltip) and taps to interact with in-game objects - mostly spheres or dots that you "tap" to connect, and turn into interesting things:  
@@ -17,7 +17,7 @@ The user rotates their head, then aims (with a gaze cursor that may show a helpe
 The core gameplay mechanics relies on connecting the dots to advance, with gaze selection also of select "special" scene objects (such as pulsating nebulas that give you a different "starview"). Upon completing a constellation, the materialized mesh may be interactive - a trigger to magically-appear other things, or a door, or a monster!
 
 ## Innovation: 
-UI: 2D overlay gaze cursor with tiny hover-text tooltips. Both wide area and targeted Spatial-hotspots, such as looking up or down trigger different game events - or look-tapping at specific objects do other things. Float-in-space symmetrical interface.
+UI: 2D overlay gaze cursor with glance-ready hover-text tooltips. Both wide area and targeted Spatial-hotspots, such as looking up or down trigger different game events - or look-tapping at specific objects do other things. Float-in-space symmetrical interface - such as 0-g isolation and directed-arrows in an inner-sphere.
 
 Walking: "Look where you want to walk" - then tap and hold the side touchpad to walk (after you finish tracing an animal in Freeform mode). 
 
