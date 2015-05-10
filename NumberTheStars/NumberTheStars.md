@@ -21,9 +21,11 @@ UI: 2D overlay gaze cursor with tiny hover-text tooltips. Spatial-hotspots, such
 
 Walking: "Look where you want to walk" - then tap and hold the side touchpad to walk (after you finish tracing an animal in Freeform mode). 
 
+Flying: Traverse via star-pull! (You'll see!) 
+
 Gameplay: I've searched, but I'm surprised that I'm the first(?) to create a head-motion (or even gyroscope-based) 3D dot to dot game, where you trace the contours from your perspective, similar to how constellations are named. This is also the first create-the-world-type rails game that uses the dot-to-dot method. 
 
-Bonus: When you complete the 3 levels in the current Story Mode, you will find a very-readable cylindrical scrolling credits scene, that you read by spinning around on your chair!
+Bonus: When you complete the 3 levels in the current Story Mode, you will find a very-readable cylindrical scrolling credits scene, that you read by spinning around on your chair! This credit also contains "in-line hotspots" that you can gaez-tap to trigger. 
 
 
 ---
