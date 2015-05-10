@@ -1,4 +1,4 @@
-Number the Stars is a casual but 3D immersive rails game that you “create to advance” by connecting the dots. This VRJam entry features two gameplay modes: Story Mode and Freeform Mode. 
+Number the Stars is a casual yet immersive 3D rails game that you “create to advance” by connecting the dots. This VRJam entry features two gameplay modes: Story Mode and Freeform Mode. 
 
 > As a reminder, the judges will primarily be reviewing your video, images, and descriptions for the first round of judging, so be specific in your description to ensure we understand what we're seeing. For example:
 
@@ -37,6 +37,10 @@ Bonus: When you complete the 3 levels in the current Story Mode, you will find a
 *Tools*: Unity 4.6.3 with OVR 0.5.0. Photoshop, Illustrator, 3ds Max (I did very little modeling - I'm just a one person indie team, so I deferred much of the mesh to the asset store:) 
 
 *Asset store*: PROTOFACTOR's Animals, Philip Schmidt's Big Environment Pack, Marmoset Skyshop, Elementals Particles. (I also wanted to include the dark lady from Unity 5 sample assets, but had some issues getting it to import in 4 without crashes on-device - the gears on the hill are from her clockwork!) 
+
+*Music*: "Lost Frontier" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/
+
+*Sound FX*: Garage Band synth glockding highest C
 
 #### How did I come up with this idea? 
 
