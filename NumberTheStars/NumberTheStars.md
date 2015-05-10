@@ -9,7 +9,7 @@ Number the Stars is a casual yet immersive 3D rails game that you “create to a
 >Innovation - what did you try that is new or unique in VR? For example, UI / user cues, multi-user interactions, visual/audio interactions, comfortable locomotion techniques, immersive control methods, or even extending the technology in some way.
 
 ## Controls: 
-Gaze cursor via overlay with "tooltip" or helper text hovering about cursor. Tap to action.  
+Gaze cursor via overlay with "tooltip" or helper text hovering about cursor. Tap to action .  
 
 ## Mechanics:
 The user rotates their head, then aims (with a gaze cursor that may show a helper-tooltip) and taps to interact with in-game objects - mostly spheres or dots that you "tap" to connect, and turn into interesting things:  
@@ -17,15 +17,17 @@ The user rotates their head, then aims (with a gaze cursor that may show a helpe
 The core gameplay mechanics relies on connecting the dots to advance, with gaze selection also of select "special" scene objects (such as pulsating nebulas that give you a different "starview"). Upon completing a constellation, the materialized mesh may be interactive - a trigger to magically-appear other things, or a door, or a monster!
 
 ## Innovation: 
-UI: 2D overlay gaze cursor with tiny hover-text tooltips. Spatial-hotspots, such as looking up or down trigger different game events. 
+UI: 2D overlay gaze cursor with tiny hover-text tooltips. Both wide area and targeted Spatial-hotspots, such as looking up or down trigger different game events - or look-tapping at specific objects do other things. Float-in-space symmetrical interface.
 
 Walking: "Look where you want to walk" - then tap and hold the side touchpad to walk (after you finish tracing an animal in Freeform mode). 
 
 Flying: Traverse via star-pull! (You'll see!) 
 
-Gameplay: I've searched, but I'm surprised that I'm the first(?) to create a head-motion (or even gyroscope-based) 3D dot to dot game, where you trace the contours from your perspective, similar to how constellations are named. This is also the first create-the-world-type rails game that uses the dot-to-dot method. 
+Gameplay: I've searched, but I'm surprised that I'm the first(?) to create a head-motion (or even gyroscope-based) 3D dot to dot game, where you trace the contours from your perspective, similar to how constellations are named. If that's true, then this is also the first create-the-world-type rails game that uses the dot-to-dot method. 
 
-Bonus: When you complete the 3 levels in the current Story Mode, you will find a very-readable cylindrical scrolling credits scene, that you read by spinning around on your chair! This credit also contains "in-line hotspots" that you can gaez-tap to trigger. 
+Intuitive audio clues: using headphones, you can hear the star-ping for the next thing to trace
+
+Bonus: When you complete the 3 levels in the current Story Mode, you will find a very-readable cylindrical scrolling credits scene, that you read by spinning around on your chair! This credit also contains targeted "in-line hotspots" that you can geze-tap to trigger. 
 
 
 ---
