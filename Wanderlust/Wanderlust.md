@@ -18,6 +18,12 @@ You see each painting hanging on the wall, as a window “looking into the paint
 ## Mechanics 
 Experience "walking through canvas" and seeing what's behind the perspective plane of the painting - discover all the dimensions of paintings.
 
+Here is a high-level checklist: 
+
+* Tiny-zap into the Escher Relativity 3d printed sculpture by tapping when the wireframe bounding box appears when you gaze-center at it. 
+* Walk into the Appia painting - walk around it. Walk into the ocean, see the waves, the girls with the emperor's new clothing, the erudite head, the hot air balloon, the ice, and the partial-Titanic in the distance.  
+* Press Escape in a painting to get back to the gallery, and enter it from a different angle... 
+
 ## Innovation
 
 * Wireframe bounding box to indicate "pre-selection" before transformation of a 2D painting into a 3D world. 
